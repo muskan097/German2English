@@ -1,6 +1,5 @@
 absl-py==0.12.0
 alabaster==0.7.10
-anaconda-navigator==1.9.12
 anaconda-project==0.8.2
 ann-visualizer==2.5
 AnyQt==0.0.10
