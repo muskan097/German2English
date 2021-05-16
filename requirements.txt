@@ -31,7 +31,7 @@ rsa==4.6
 six==1.15.0
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.1.0
+tensorflow==https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
 tensorflow-estimator==2.3.0
 termcolor==1.1.0
 urllib3==1.25.10
